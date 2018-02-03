@@ -1,0 +1,38 @@
+.questionLabels {
+	font-size: 30px;
+	color: white;
+}
+.question {
+	font-size: 24px;
+}
+.textlabel {
+	font-size: 30px;
+}
+input {
+	height: 35px;
+	width: 100%;
+}
+select {
+	height: 35px;
+	width: 25%;
+	font-size: 24px;
+}
+h3 {
+	background-color: #529da6;
+	padding: 5px;
+}
+.btn-primary {
+	background-color: #529da6;
+	border-color: #418c95;
+	color: #ffffff;
+	font-size: 22px;
+}
+.btn-group {
+	width: 75%;
+	margin: 20px auto;
+	display: block;
+}
+.btn-block {
+	width: 100%;
+	margin-bottom: 50px;
+}

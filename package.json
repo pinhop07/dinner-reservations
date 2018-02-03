@@ -1,0 +1,27 @@
+{
+  "name": "dinner-reservations",
+  "version": "1.0.0",
+  "description": "take in form data & compare users",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinhop07/dinner-reservations.git"
+  },
+  "author": "Tom Cariello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinhop07/dinner-reservations/issues"
+  },
+  "homepage": "https://github.com/pinhop07/dinner-reservations#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "path": "^0.12.7"
+  },
+  "keywords": []
+}
